@@ -1,0 +1,100 @@
+.open-normal-raleway{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.header{
+    background-image: url(../Assets/Hero-bg.png);
+    
+}
+/* Shared color */
+.shared-color{
+    color: #4E47FF;
+}
+.header-logo{
+    margin-left: 150px;
+    margin-right: 80px;
+}
+
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    
+}
+.logo{
+    font-size: 40px;
+    font-weight: 800;
+}
+.btn-bg{
+background-color: #4E47FF;
+color: white;
+}
+.btn-sign{
+    padding: 12px 36px;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+
+}
+nav ul li{
+    list-style: none;
+}
+.cool{
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.btn-focused{
+    display: block;
+    margin: 0 auto;
+
+}
+/* main style */
+.action{
+    display: flex;
+    justify-content: space-around;
+}
+.para-style{
+color: #757575;
+font-size: 24px;
+}
+.see{
+    font-size: 42px;
+    font-weight: bold;
+}
+.joined-section{
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: #D0C6FD;
+    padding: 50px 80px;
+    border-radius: 10px;
+}
+.joined-active{
+    display: flex;
+    justify-content: space-around;
+}
+.h-style{
+   font-size: 80px;
+   font-weight: bold;
+}
+.joined-text{
+    text-align: center;
+    font-size: 38px;
+    font-weight: bold;
+}
+.para-style-2{
+    color: #757575;
+    font-size: 20px;
+}
+.user-item-menu{
+    display: flex;
+    justify-content: space-around;
+}
