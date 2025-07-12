@@ -125,6 +125,20 @@ form input[type="text"],  footer input[type="email"], footer textarea {
     padding: 10px 20px;
     margin-bottom: 24px;
     border: none;
+}
 
+.footer{
+    align-items: center;
+}
 
+.flex-link{
+    display: flex;
+    justify-content: space-around;
+}
+ul li{
+    list-style: none;
+}
+.logo-1{
+    font-weight: 100px;
+    font-weight: bold;
 }
